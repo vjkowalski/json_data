@@ -1,1 +1,16 @@
-[{ "name": "Subdocta", "show_date": "Thursday June 10, 2021", "genre": "Bass" }]
+[
+  { "name": "Subdocta", "show_date": "Thursday June 10, 2021", "genre": "Bass" },
+  { "name": "Habstrakt", "show_date": "Friday June 11, 2021", "genre": "Bass" },
+  { "name": "Cat Dealers", "show_date": "Thursday June 17, 2021", "genre": "Bass" },
+  { "name": "Electric Foam Opening Party", "show_date": "Saturday June 19, 2021", "genre": "House" },
+  { "name": "Ookay", "show_date": "Thursday June 24, 2021", "genre": "Bass" },
+  { "name": "Yultron", "show_date": "Friday June 25, 2021", "genre": "Bass" },
+  { "name": "Borgore", "show_date": "Saturday June 26, 2021", "genre": "Bass" },
+  { "name": "Com3t", "show_date": "Thursday July 8, 2021", "genre": "Bass" },
+  { "name": "Jason Ross", "show_date": "Friday July 23, 2021", "genre": "Trance" },
+  { "name": "Luttrell", "show_date": "Saturday August 7, 2021", "genre": "Trance" },
+  { "name": "Lost Kings", "show_date": "Saturday September 4, 2021", "genre": "House" },
+  { "name": "Getter", "show_date": "Saturday September 18, 2021", "genre": "Bass" },
+  { "name": "Gorgon City", "show_date": "Friday October 15, 2021", "genre": "House" },
+  { "name": "MitiS", "show_date": "Friday November 19, 2021", "genre": "Bass" }
+]
